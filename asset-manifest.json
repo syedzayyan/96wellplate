@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/96wellplate/static/css/main.eb04f9c0.chunk.css",
-    "main.js": "/96wellplate/static/js/main.b61ef781.chunk.js",
-    "main.js.map": "/96wellplate/static/js/main.b61ef781.chunk.js.map",
+    "main.js": "/96wellplate/static/js/main.b9612b1a.chunk.js",
+    "main.js.map": "/96wellplate/static/js/main.b9612b1a.chunk.js.map",
     "runtime-main.js": "/96wellplate/static/js/runtime-main.17240e23.js",
     "runtime-main.js.map": "/96wellplate/static/js/runtime-main.17240e23.js.map",
     "static/css/2.42db4810.chunk.css": "/96wellplate/static/css/2.42db4810.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.42db4810.chunk.css",
     "static/js/2.c1da5e34.chunk.js",
     "static/css/main.eb04f9c0.chunk.css",
-    "static/js/main.b61ef781.chunk.js"
+    "static/js/main.b9612b1a.chunk.js"
   ]
 }
