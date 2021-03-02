@@ -1,5 +1,6 @@
 {
   "name": "96wellplate",
+  "homepage": "https://syedzayyan.github.io/96wellplate/", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
