@@ -51,14 +51,14 @@ body{
 .table-cell:nth-child(1){
   border:none;
 }
-.cell-active{
-  background-color: #61dafb;
-}
-.cell-inactive{
-  background-color:none;
-}
 .plate-container{
-  display: flex;
+  display:flex;
   justify-content: center;
   align-items: center;
+}
+.table-cell-text{
+  display: none;
+}
+.table-cell:nth-child(1) .table-cell-text{
+  display: block;
 }
